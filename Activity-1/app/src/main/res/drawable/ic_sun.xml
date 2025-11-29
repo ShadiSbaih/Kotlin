@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Sun rays -->
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M60,10 L60,25"
+        android:strokeWidth="6"
+        android:strokeColor="#FFB74D"
+        android:strokeLineCap="round"/>
+
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M60,95 L60,110"
+        android:strokeWidth="6"
+        android:strokeColor="#FFB74D"
+        android:strokeLineCap="round"/>
+
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M10,60 L25,60"
+        android:strokeWidth="6"
+        android:strokeColor="#FFB74D"
+        android:strokeLineCap="round"/>
+
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M95,60 L110,60"
+        android:strokeWidth="6"
+        android:strokeColor="#FFB74D"
+        android:strokeLineCap="round"/>
+
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M25,25 L35,35"
+        android:strokeWidth="6"
+        android:strokeColor="#FFB74D"
+        android:strokeLineCap="round"/>
+
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M85,85 L95,95"
+        android:strokeWidth="6"
+        android:strokeColor="#FFB74D"
+        android:strokeLineCap="round"/>
+
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M25,95 L35,85"
+        android:strokeWidth="6"
+        android:strokeColor="#FFB74D"
+        android:strokeLineCap="round"/>
+
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M85,35 L95,25"
+        android:strokeWidth="6"
+        android:strokeColor="#FFB74D"
+        android:strokeLineCap="round"/>
+
+    <!-- Sun circle with gradient effect -->
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M60,60m-25,0a25,25 0,1,1 50,0a25,25 0,1,1 -50,0"/>
+
+
+
+</vector>
